@@ -1,4 +1,4 @@
-/*single row function 1-character
+/*single row function 1-Character 2-Date 3-Number 4-Conversion 5-General
 
 character 
 1-cause_conversion function
